@@ -1,0 +1,6 @@
+secretGenerator:
+- name: ghost-pass
+  literals:
+  - password=ooscaryaghost
+resources:
+  - ghost-deployment.yaml
